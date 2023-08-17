@@ -1,0 +1,6 @@
+- theme is dark background and bright text colors and bg-#111
+use:
+- react mdb https://mdbootstrap.com/docs/react/forms/input-fields/
+- mui datepicker: https://mui.com/x/react-date-pickers/date-picker/
+- mdb form: https://mdbootstrap.com/docs/react/forms/validation/
+- mdb table: https://mdbootstrap.com/docs/react/data/tables/
